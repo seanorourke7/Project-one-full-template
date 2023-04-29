@@ -2,9 +2,68 @@ body {
     background-image: url('/assets/images/beach.jpg');
     background-position: center;
     background-repeat: no-repeat;
-    height: 50px;
+    
       
 }
 
+#logo {
+    
+    float: left;
+    font-size: 400%;
+    margin-left: 100px;
+    color: #000000;
+    margin-top: 30px
+    
+}
+header {
+    height: 150px;
+    border: 5px solid #000000;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
 
+nav li {
+    float:right;
+    list-style: none;
+    margin-right: 100px;
+    margin-top: 30px
+    
+}
+nav li a{
+    text-decoration: none;
+    font-size: 300%;
+    color : #000000;
+    letter-spacing: 3px;
+}
+nav li a:hover {
+    color : white;
 
+}
+
+footer {
+    position: static;
+    height:150px;
+    
+}
+#socials{
+    text-align: center;
+}
+#socials li{
+    display: inline;
+    list-style: none;
+    margin-top: 30px;
+    
+    
+}
+#socials li a {
+    text-decoration: none;
+    }
+#socials i {
+    font-size: 400%;
+    color: #000000;
+    margin: 1%;
+    padding: 5%;
+}
+
+#opening {height:1000px;}
