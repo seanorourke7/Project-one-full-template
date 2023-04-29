@@ -1,7 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto+Condensed&display=swap');
+
 body {
+    font-family: 'roboto condensed', sans-serif;
     background-image: url('/assets/images/beach.jpg');
     background-position: center;
     background-repeat: no-repeat;
+    
     
       
 }
@@ -9,17 +14,22 @@ body {
 #logo {
     
     float: left;
-    margin-left: 100px;
-        margin-top: 30px
+    margin-left: 150px;
+    margin-top: 100px
     
 }
 #logo a{
     font-size: 200%;
     color: #000000;
     text-decoration: none;
+    font-family: 'Dancing Script', sans-serif;
+}
+#logo a:hover {
+    color: white;
+    
 }
 header {
-    height: 150px;
+    height: 300px;
     border: 5px solid #000000;
    
     
@@ -28,8 +38,8 @@ header {
 nav li {
     float:right;
     list-style: none;
-    margin-right: 100px;
-    margin-top: 30px
+    margin-right: 150px;
+    margin-top: 100px
     
 }
 nav li a{
@@ -45,16 +55,20 @@ nav li a:hover {
 
 footer {
     position: static;
-    height:150px;
+        
+}
+footer p {
+    text-align: center;
+    float: right;
     
+
 }
 #socials{
     text-align: center;
 }
 #socials li{
     display: inline;
-    list-style: none;
-    margin-top: 30px;
+ 
     
     
 }
@@ -66,6 +80,7 @@ footer {
     color: #000000;
     margin: 1%;
     padding: 5%;
+  
 }
 #about {
     display: block;
@@ -73,6 +88,7 @@ footer {
     text-align:left;
     height:800px;
     background-color: #09090f4f;
+    
     
 }
 #portrait {
@@ -83,7 +99,8 @@ footer {
     background: url(/assets/images/pexels-abel-matthew-16389104.jpg) no-repeat center center;
     background-size: contain;
     background-repeat:no-repeat;
-    margin: 5px;
+    margin-left:3%;
+    
     
     
     
@@ -92,9 +109,39 @@ footer {
     
     width: 47%;
     float: right;
-    background-color: grey;
     color:antiquewhite;
     margin-right: 10%;
     margin-top:5%;
     background-color: #09090f4f;
+    padding:10px;
+}
+#weddings {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0px;
+   
+    
+
+}
+#weddings img {
+    width:100%;
+    
+}
+.form-section {
+    color: white;
+    margin-right: 10%;
+    margin-top:5%;
+    background-color: #09090fa2;
+    padding:10px;
+    max-width: 600px;
+    margin-left:10%;
+    
+}
+.form-section h2 {
+    font-size:xx-large;
+}
+.form-section input {
+    color: rgb(0, 0, 0);
+
 }
