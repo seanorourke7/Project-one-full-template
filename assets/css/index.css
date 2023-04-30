@@ -208,3 +208,13 @@
     }    
             
     }
+    @media screen and (max-width: 500px){
+        nav li {margin-top:10px;
+            margin-right:3px;
+            
+            font-size:40%;}
+    }
+    header{height:150px}
+    footer{
+        font-size:50%;
+    }
