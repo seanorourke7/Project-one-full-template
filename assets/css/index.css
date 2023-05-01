@@ -170,9 +170,7 @@
                     height:25px;
                     color: #fff;
                 }
-                #message-box{
-                    height:100px;
-                }
+                
                 #submit{
                     margin-top: 5%;
                     background-color:hsl(240, 5%, 71%); 
