@@ -68,14 +68,16 @@
                     bottom: 0;
                     width:100%;
                     
-                    
                 }       
 
                 footer p {
                     text-align: center;
                     float: right;
                 }
-               
+                #contact-footer{
+                    bottom:0;
+                    position: absolute;
+                }
                 #socials{
                     text-align: center;
                 }
