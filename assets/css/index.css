@@ -64,14 +64,14 @@
                 margin:10px; 
                 }
                 footer {
-                    height:100px;
+                    height:150px;
                     bottom: 0;
                     width:100%;
                     
                 }       
 
                 footer p {
-                    text-align: center;
+                    text-align: left;
                     float: right;
                 }
                
@@ -91,7 +91,7 @@
                     font-size: 400%;
                     color: #000000;
                     margin: 1%;
-                    padding: 5%;
+                    padding: 1%;
                 
                 }
                 #about {
