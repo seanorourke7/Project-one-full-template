@@ -58,6 +58,7 @@
                 }
                 .bio-reviews {
                 margin:10px; 
+                
                 }
                 .bio-reviews p {
                     margin:5px;
@@ -101,7 +102,7 @@
                 }
                 #about {
                     display: block;
-                    padding-top: 100px;
+                    padding-top: 80px;
                     text-align:left;
                     height:800px;
                     background-color: #09090f4f;
@@ -194,7 +195,7 @@
                     #logo{ margin-left: 10px;
                         margin-top: 50px}
                                       
-
+                       
 
                 }
             
@@ -204,6 +205,7 @@
                             margin-left: 10px;
                         width: 100%;
                     }
+                    
                         nav {
                             margin-left:10px;
                         float:left;
@@ -251,8 +253,11 @@
 
                     }
                     @media screen and (max-width: 550px){
-                        footer{
-                            font-size:30%;
+                        footer {
+                            height:1rem;
+                                                
+                           
+                            
                         }
                         header{
                             height: 150px;
@@ -260,7 +265,12 @@
                         nav li {
                             margin-top:10px;
                             margin-right:3px;
-                            font-size:40%;}
+                            font-size:40%;
                         }
-            
+                        
+                        #socials i {
+                            font-size: 200%;
+                            margin: 0 5%;
+                        } 
+                    }
                 
