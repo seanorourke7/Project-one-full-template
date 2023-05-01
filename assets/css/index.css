@@ -59,6 +59,9 @@
                 .bio-reviews {
                 margin:10px; 
                 }
+                .bio-reviews p {
+                    margin:5px;
+                }
                 footer {
                     height:2rem;
                     position: absolute;
