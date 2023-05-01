@@ -60,8 +60,8 @@
                 margin:10px; 
                 }
                 footer {
-                    height:150px;
-                    
+                    height:2.5rem;
+                    position: absolute;
                     width:100%;
                     bottom:0;
                     
@@ -183,6 +183,11 @@
                     background-color:#fff;
                     color:#000000;
                 }
+
+                #page-container {
+                    position: relative;
+                    min-height: 100vh;
+                  }
                 @media screen and (max-width: 1200px){
                     #logo{ margin-left: 10px;
                         margin-top: 50px}
