@@ -8,7 +8,7 @@
                 }
                 body {
                     font-family: 'roboto condensed', sans-serif;
-                    background-image: url('/images/beach.jpg');
+                    background-image: url('..images/beach.jpg');
                     background-position: center;
                     background-repeat: no-repeat;
                     background-color: #8f8d8d;
@@ -112,7 +112,7 @@
                     height: 600px;
                     width: 33%;
                     float: left;
-                    background: url(../images/pexels-photo-16299832.jpg) no-repeat center center;
+                    background: url(..images/pexels-photo-16299832.jpg) no-repeat center center;
                     background-size: contain;
                     background-repeat:no-repeat;
                     margin-left:3%;
