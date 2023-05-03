@@ -39,13 +39,15 @@ header {
 
 nav {
     float: right;
+    margin-top: 100px
+    
 }
 
 nav li {
     display: inline-block;
     list-style: none;
     margin-right: 50px;
-    margin-top: 100px
+    
 }
 
 nav li a {
@@ -75,14 +77,8 @@ footer {
     bottom: 0;
 }
 
-footer p {
-    text-align: center;
-    float: right;
-}
-
 #socials {
     text-align: center;
-    
 }
 
 #socials li {
@@ -179,7 +175,9 @@ footer p {
     position: relative;
     min-height: 100vh;
 }
-
+@media screen and (max-width: 1250px) {
+    nav { margin-top: 50px; }
+}
 @media screen and (max-width: 1200px) {
     #logo {
         margin-left: 10px;
@@ -200,7 +198,7 @@ footer p {
     }
 
     nav li {
-        margin-top: 50px;
+        
         font-size: 60%;
         letter-spacing: 1px;
     }
@@ -260,9 +258,12 @@ footer p {
     header {
         height: 150px;
     }
+    nav {
+        margin-top: 10px;
+    }
 
     nav li {
-        margin-top: 10px;
+        
         margin-right: 3px;
         font-size: 40%;
     }
