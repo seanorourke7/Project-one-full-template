@@ -171,6 +171,8 @@ footer {
     color: #000000;
 }
 
+#thank-you {background-color: #09090f4f;}
+
 .page-container {
     position: relative;
     min-height: 100vh;
