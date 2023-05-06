@@ -8,9 +8,10 @@
 
 body {
     font-family: 'kanit', sans-serif;
-    background: url('../images/beach.jpg') repeat-x center center;
+    background: url('../images/pexels-oliver-sjöström-1078981.jpg');
     background-color: #8f8d8d;
-    position: relative;
+    background-position: center;
+    background-repeat: repeat;
 }
 
 #logo {
@@ -108,7 +109,7 @@ footer {
     height: 600px;
     width: 33%;
     float: left;
-    background: url(../images/pexels-photo-16299832.jpg) no-repeat center center;
+    background: url(../images/pexels-photo-16299832.jpg) center center repeat;
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 3%;
