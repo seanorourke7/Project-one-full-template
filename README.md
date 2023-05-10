@@ -16,7 +16,6 @@ This is a multi page site with links to each page. It contains a Home(about), Ga
 
 The site is responsive across different screen sizes. 
 
-file:///workspaces/rjphotography/assets/images/AmIResponsive1.gif
 
 https://seanorourke7.github.io/rjphotography/
 
