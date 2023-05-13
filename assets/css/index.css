@@ -14,6 +14,8 @@ body {
     background-repeat: repeat;
 }
 
+/** header styles**/
+
 #logo {
 
     float: left;
@@ -62,57 +64,7 @@ nav li a:hover {
 
 }
 
-.bio-reviews {
-    margin: 10px;
-}
-
-.bio-reviews p {
-    margin: 5px;
-}
-
-footer {
-    height: 2rem;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-}
-
-#socials {
-    text-align: center;
-}
-
-#socials li {
-    display: inline;
-}
-
-#socials li a {
-    text-decoration: none;
-}
-
-#socials i {
-    font-size: 400%;
-    color: #000000;
-    margin: 5%;
-    padding: 3%;
-}
-
-#about {
-
-    padding-top: 80px;
-    text-align: left;
-    height: 1000px;
-}
-
-#portrait {
-
-    height: 600px;
-    width: 33%;
-    float: left;
-    background: url(../images/pexels-photo-16299832.jpg) center center repeat;
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin-left: 3%;
-}
+/** bio paragraph on home page **/
 
 #bio {
 
@@ -125,6 +77,36 @@ footer {
     padding: 10px;
 }
 
+#about {
+
+    padding-top: 80px;
+    text-align: left;
+    height: 1000px;
+}
+
+.bio-reviews {
+    margin: 10px;
+}
+
+.bio-reviews p {
+    margin: 5px;
+}
+
+/** portrait image**/
+
+#portrait {
+
+    height: 600px;
+    width: 33%;
+    float: left;
+    background: url(../images/pexels-photo-16299832.jpg) center center repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 3%;
+}
+
+/**Gallery page **/
+
 #gallery-link {
     color: antiquewhite;
     text-decoration: none;
@@ -133,6 +115,8 @@ footer {
 #gallery-link:hover {
     color: #000000;
 }
+
+/**code for #pictures sourced from love running project**/
 
 #pictures {
     clear: both;
@@ -145,10 +129,14 @@ footer {
     width: 100%;
 }
 
+/** contact page **/
+
 .contact-form h2 {
     font-size: xx-large;
     margin-bottom: 20px;
 }
+
+/** code for contact form sourced from love running project (edited to suit)**/ 
 
 .contact-form {
     margin: 1%;
@@ -188,14 +176,43 @@ footer {
     color: #000000;
 }
 
+/** thank you page **/
+
 #thank-you {
     margin: 1%;
     color: #fff;
     background-color: #09090f4f;
     max-width: 400px;
-    margin-left: 10%;
+    
     padding: 30px;
     border-radius: 10px;
+}
+/**footer styles**/
+
+footer {
+    height: 2rem;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+#socials {
+    text-align: center;
+}
+
+#socials li {
+    display: inline;
+}
+
+#socials li a {
+    text-decoration: none;
+}
+
+#socials i {
+    font-size: 400%;
+    color: #000000;
+    margin: 5%;
+    padding: 3%;
 }
 
 .page-container {
@@ -203,6 +220,7 @@ footer {
     min-height: 100vh;
 }
 
+/** media queries **/
 
 @media screen and (max-width: 1250px) {
     nav {
