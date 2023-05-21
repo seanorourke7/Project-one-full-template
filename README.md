@@ -7,10 +7,9 @@ This is a multi page site with links to each page. It contains a Home(about), Ga
 
 The site is responsive across different screen sizes. 
 
-assets/images/readme/AmIResponsive1.gif
-
 https://seanorourke7.github.io/rjphotography/
 
+assets/images/readme/screenshot-homepage1.png
 
 ---
 
@@ -83,7 +82,7 @@ It works well in this case as it helps with the natural flow of a website and th
 
 All sections within the image are offset to apear almost translucent to the background.
 
-This allows for the use of black and white font and keeps the colour scheme simple but effective. 
+This allows for the use of black and white font and keeps the colour scheme simple and effective. 
 
 ### Typography
 
@@ -95,24 +94,50 @@ assets/images/readme/kanitfont.jpg
 
 ### Imagery
 
-I've used a selection of coyright free images from www.pexels.com. They show a range of subjects to show off the photographers skillset. Weddings, corporate events, music events and drone images. 
+All images used are copyright free images from www.pexels.com. They show a range of subjects to show off the photographers skillset. Weddings, corporate events, music events and drone images. 
 
 ### Wireframes
 
 I drew out the wireframes with pen and paper and then worked from that template into the site. 
+The structure changed slightly as I went through the process of developing it but it still maintained the basic idea of the original layout. 
+
+assets/images/readme/wireframe-homepage.png
+assets/images/readme/wireframe-gallery.png
+assets/images/readme/wireframe-contact.png
+
 
 ## Features
 
-This site contains a home page with some information about the photographer and reviews of his work, a gallery page that shows a selection of his work and a contact page that captures a name, email and message. 
+This site contains a home page with some information about the photographer and reviews of his work. 
+
+assets/images/readme/home-desktop.png
+assets/images/readme/home-mobile.png
+
+A gallery page that shows a selection of his work.
+
+assets/images/readme/gallerydesktop1.png
+assets/images/readme/gallery-mobile.png
+
+A contact page that captures a name, email and message.
+
+assets/images/readme/contactdesktop1.png
+assets/images/readme/contact-mobile.png
+
+And a thank you message that auto refreshes to the homepage. 
+
+assets/images/readme/thankyou-desktop1.png
+assets/images/readme/thankyou-mobile.png
+
 
 ### General features on each page
 
 There is a header that is consitant across all pages. It contains a link to each page , Home , Gallery, and About. The header also contains the logo which will also link back to the home page. 
 
+assets/images/readme/header.png
+
 The footer is consistant across all pages and links to the social media accounts. 
 
-
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
+assets/images/readme/footer.png
 
 ### Future Implementations
 
@@ -150,10 +175,6 @@ Click on the Pages link in the left hand side navigation bar.
 In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
 Click Save. Your live Github Pages site is now deployed at the URL shown.
 
-### Local Development
-
-Local Development
-
 #### How to Fork
 
 How to Fork
@@ -178,7 +199,7 @@ Type 'git clone' into the terminal and then paste the link you copied in step 3.
 
 Testing was ongoing throughout the entire build. I utilised Chrome developer tools while building to pinpoint and troubleshoot any issues as I went along.
 
-The following issues were raised during my mid project meeting with my mentor:
+The following feedback was raised during my mid project meeting with my mentor:
 
 The gallery mentioned in the bio should act as a link to the gallery page. 
 There should be more images in the gallery.
@@ -191,32 +212,35 @@ When sizing down to mobile the 3 columns in the gallery were too small to see so
 Initally the contact form was 10% from the left and this caused an issue with the flow of the page when viewed on mobile so i changed it to 1%. 
 The images initially would display fine on the live site but not in the working environment of codeanywhere. I had to change the address to all images so they would display on both. 
 
+
+
 ## Credits
 
 Most of what I learned for this project came from the love-running project from code institute. 
 I have recieved help and feedback particularly around the thank you page from Graeme Taylor my mentor.
-Some of the code I re-used from the love running project specifically the gallery styling.
- 
 
 ### Code Used
 
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
+I re-used code from the love running project for the gallery styling.
+#pictures {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0px;
+}
 
 ### Content
 
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+The site was written by me and is entirely fictional. 
 
 ###  Media
 
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+All images used are copyright free from www.pexels.com.
   
 ###  Acknowledgments
 
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
-
-
-
-
+Graeme Taylor my mentor helped me a lot with this project and I got some feedback from Alan B, the cohort facilitator with code institute around the wording used in the header. Originaly it was "ABOUT" but I later changed it to "HOME".
+And the Slack community  
 
 https://seanorourke7.github.io/rjphotography/
 
