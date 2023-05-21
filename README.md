@@ -31,11 +31,8 @@ assets/images/readme/screenshot-homepage1.png
 
 * [Technologies Used](#technologies-used)
   * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
-  * [Local Development](#local-development)
     * [How to Fork](#how-to-fork)
     * [How to Clone](#how-to-clone)
 
@@ -111,21 +108,25 @@ assets/images/readme/wireframe-contact.png
 This site contains a home page with some information about the photographer and reviews of his work. 
 
 assets/images/readme/home-desktop.png
+
 assets/images/readme/home-mobile.png
 
 A gallery page that shows a selection of his work.
 
 assets/images/readme/gallerydesktop1.png
+
 assets/images/readme/gallery-mobile.png
 
 A contact page that captures a name, email and message.
 
 assets/images/readme/contactdesktop1.png
+
 assets/images/readme/contact-mobile.png
 
 And a thank you message that auto refreshes to the homepage. 
 
 assets/images/readme/thankyou-desktop1.png
+
 assets/images/readme/thankyou-mobile.png
 
 
@@ -215,7 +216,9 @@ The images initially would display fine on the live site but not in the working 
 No bugs were identified in HTML or CSS validators. 
 
 assets/images/readme/jigsaw-validator.png
+
 assets/images/readme/w3c-validator.png
+
 assets/images/readme/pagespeed.png
 
 ## Credits
@@ -244,7 +247,9 @@ All images used are copyright free from www.pexels.com.
 ###  Acknowledgments
 
 Graeme Taylor my mentor helped me a lot with this project and I got some feedback from Alan B. the cohort facilitator with code institute around the wording used in the header. Originaly it was "ABOUT" but I later changed it to "HOME".
-And the Slack community for this projecy is a great help for community discorse and feedback.  
+The readme template was used from code insitute. 
+And the Slack community for this project is a great help for community discorse and feedback.  
+
 
 https://seanorourke7.github.io/rjphotography/
 
