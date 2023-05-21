@@ -9,7 +9,7 @@ The site is responsive across different screen sizes.
 
 https://seanorourke7.github.io/rjphotography/
 
-assets/images/readme/screenshot-homepage1.png
+![screenshot across differant device sizes](assets/images/readme/screenshot-homepage1.png)
 
 ---
 
