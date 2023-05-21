@@ -87,7 +87,7 @@ I've used Kanit font as it is buisness like while also maintaining a modern styl
 
 It's easy to read and looks well when used as headers and paragraphs. This means I can use it across the site and keep the flow of the site intact. 
 
-assets/images/readme/kanitfont.jpg
+![font type](assets/images/readme/kanitfont.jpg)
 
 ### Imagery
 
@@ -98,47 +98,47 @@ All images used are copyright free images from www.pexels.com. They show a range
 I drew out the wireframes with pen and paper and then worked from that template into the site. 
 The structure changed slightly as I went through the process of developing it but it still maintained the basic idea of the original layout. 
 
-assets/images/readme/wireframe-homepage.png
-assets/images/readme/wireframe-gallery.png
-assets/images/readme/wireframe-contact.png
+![homepage wireframe](assets/images/readme/wireframe-homepage.png)
+![gallery wireframe](assets/images/readme/wireframe-gallery.png)
+![contact wireframe](assets/images/readme/wireframe-contact.png)
 
 
 ## Features
 
 This site contains a home page with some information about the photographer and reviews of his work. 
 
-assets/images/readme/home-desktop.png
+![Homepage destop](assets/images/readme/home-desktop.png)
 
-assets/images/readme/home-mobile.png
+![Homepage mobile](assets/images/readme/home-mobile.png)
 
 A gallery page that shows a selection of his work.
 
-assets/images/readme/gallerydesktop1.png
+![gallery destop](assets/images/readme/gallerydesktop1.png)
 
-assets/images/readme/gallery-mobile.png
+![gallery mobile](assets/images/readme/gallery-mobile.png)
 
 A contact page that captures a name, email and message.
 
-assets/images/readme/contactdesktop1.png
+![contact destop](assets/images/readme/contactdesktop1.png)
 
-assets/images/readme/contact-mobile.png
+![contact mobile](assets/images/readme/contact-mobile.png)
 
 And a thank you message that auto refreshes to the homepage. 
 
-assets/images/readme/thankyou-desktop1.png
+![thank you destop](assets/images/readme/thankyou-desktop1.png)
 
-assets/images/readme/thankyou-mobile.png
+![thank you mobile](assets/images/readme/thankyou-mobile.png)
 
 
 ### General features on each page
 
 There is a header that is consitant across all pages. It contains a link to each page , Home , Gallery, and About. The header also contains the logo which will also link back to the home page. 
 
-assets/images/readme/header.png
+![Header](assets/images/readme/header.png)
 
 The footer is consistant across all pages and links to the social media accounts. 
 
-assets/images/readme/footer.png
+![Footer](assets/images/readme/footer.png)
 
 ### Future Implementations
 
@@ -215,11 +215,11 @@ The images initially would display fine on the live site but not in the working 
 
 No bugs were identified in HTML or CSS validators. 
 
-assets/images/readme/jigsaw-validator.png
+![Jigsaw](assets/images/readme/jigsaw-validator.png)
 
-assets/images/readme/w3c-validator.png
+![W3C](assets/images/readme/w3c-validator.png)
 
-assets/images/readme/pagespeed.png
+![PageSpeed](assets/images/readme/pagespeed.png)
 
 ## Credits
 
