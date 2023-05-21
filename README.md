@@ -212,7 +212,11 @@ When sizing down to mobile the 3 columns in the gallery were too small to see so
 Initally the contact form was 10% from the left and this caused an issue with the flow of the page when viewed on mobile so i changed it to 1%. 
 The images initially would display fine on the live site but not in the working environment of codeanywhere. I had to change the address to all images so they would display on both. 
 
+No bugs were identified in HTML or CSS validators. 
 
+assets/images/readme/jigsaw-validator.png
+assets/images/readme/w3c-validator.png
+assets/images/readme/pagespeed.png
 
 ## Credits
 
@@ -239,8 +243,8 @@ All images used are copyright free from www.pexels.com.
   
 ###  Acknowledgments
 
-Graeme Taylor my mentor helped me a lot with this project and I got some feedback from Alan B, the cohort facilitator with code institute around the wording used in the header. Originaly it was "ABOUT" but I later changed it to "HOME".
-And the Slack community  
+Graeme Taylor my mentor helped me a lot with this project and I got some feedback from Alan B. the cohort facilitator with code institute around the wording used in the header. Originaly it was "ABOUT" but I later changed it to "HOME".
+And the Slack community for this projecy is a great help for community discorse and feedback.  
 
 https://seanorourke7.github.io/rjphotography/
 
