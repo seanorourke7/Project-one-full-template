@@ -213,6 +213,8 @@ When sizing down to mobile the 3 columns in the gallery were too small to see so
 Initally the contact form was 10% from the left and this caused an issue with the flow of the page when viewed on mobile so i changed it to 1%. 
 The images initially would display fine on the live site but not in the working environment of codeanywhere. I had to change the address to all images so they would display on both. 
 
+When i first ran throught the W3C validator it found that I had one div that didn't have a closing tag. This was easily rectified. 
+
 No bugs were identified in HTML or CSS validators. 
 
 ![Jigsaw](assets/images/readme/jigsaw-validator.png)
